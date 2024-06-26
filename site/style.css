@@ -1,0 +1,39 @@
+.main{
+    text-align: center;
+    background: green;
+    width: 150px;
+    height: 60px;
+    margin: auto;
+}
+    .flexing{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between ;
+    background-color: rgb(73, 208, 80);
+    border: 1px solid rgb(58, 164, 63);
+}
+    .block{
+    border: 1px solid black;
+    width: 100px;
+    background: white;
+}
+    a{
+    text-decoration: none;
+    color: black;
+}
+    .button{
+    border: 0px solid black;
+    padding: auto;
+    border: 3px solid rgb(73, 208, 80);
+    border-radius: 10%;
+}
+    .button:hover{
+    background: bisque;
+}
+    body{
+    background-color: rgb(58, 164, 63);
+}
+.header{
+    border: 1px solid black;
+    background: aquamarine;
+}
